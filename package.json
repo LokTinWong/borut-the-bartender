@@ -1,0 +1,25 @@
+{
+  "name": "borut-the-bartender",
+  "version": "1.0.0",
+  "description": "A Discord bot that acts as a bartender in text channels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LokTinWong/borut-the-bartender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LokTinWong/borut-the-bartender/issues"
+  },
+  "homepage": "https://github.com/LokTinWong/borut-the-bartender#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}
